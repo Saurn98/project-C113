@@ -1,0 +1,15 @@
+body {
+  background: #16A085;
+}
+
+canvas {
+  border: 5px solid #D5D8DC;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100vh !important;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+  display: grid;
+  align-items: center;
+}/*# sourceMappingURL=style.css.map */
